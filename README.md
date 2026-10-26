@@ -1,6 +1,8 @@
 Retail Sales & Profit Analysis
 Project Overview
+## Dashboard Preview
 
+![Retail Sales Dashboard](Retail_Dashboard.png)
 This project analyzes retail sales and profitability using MySQL and Excel. It helps identify top-performing products, profitable regions, and monthly sales trends through SQL queries and an interactive dashboard.
 
 Tools Used
